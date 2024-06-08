@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(50, 167, 167);
+    background-image: url('./assets/body.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
